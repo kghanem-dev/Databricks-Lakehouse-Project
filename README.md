@@ -441,3 +441,6 @@ Rather than hardcoding file paths inside the notebook, ingestion is driven by `b
 - Real-world IDs are messy (alphanumeric) — treat identifiers as strings unless you truly need numeric math.
 - Orchestration notebooks make the pipeline reproducible and Job-friendly (one entry point per layer).
 - Jobs + dependencies provide a clean “production-style” run flow, even in Free Edition.
+
+## Data Source
+Sample dataset provided by **DataWithBaraa** (used for educational purposes).
